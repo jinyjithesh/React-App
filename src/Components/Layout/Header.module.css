@@ -1,0 +1,49 @@
+.header {
+    height: 89px;
+    width: 1444px;
+    
+    top: 0px;
+    bottom: 935px;
+    border-radius: 0px;
+    position: fixed;
+    background:linear-gradient(90.96deg, rgba(48, 118, 222, 0.4) 1.05%, rgba(241, 108, 11, 0.13) 99.89%);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    z-index: 10;
+      
+    }
+    .but1{
+        height: 41px;
+    width: 158px;
+    left: 1101px;
+    top: 26px;
+    border-radius: 5px;
+    padding: 6px, 20px, 6px, 20px;
+    text-align: center;
+    
+    }
+    .but2{
+        height: 5.4193549156188965px;
+    width:150px;
+    left: 1100px;
+
+    top: 43.790283203125px;
+    border-radius: 0px;
+    
+    
+    }
+    .main-1{
+        width: 1444px;
+        height: 935px;
+        background:  #E5E5E5;;
+             }
+             .h1{
+                height: 33px;
+        width: 163px;
+        left: 185px;
+        top: 27px;
+        border-radius: nullpx;
+        
+            }

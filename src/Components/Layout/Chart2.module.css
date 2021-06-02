@@ -1,0 +1,62 @@
+.box{
+    position: absolute;
+
+    left:469.91px;
+    top: 38.66px;
+    bottom: 28px;
+    right: 469px;
+    
+}
+.h{
+    font-family: Segoe UI;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 24px;
+text-align: center;
+
+color: #000000;
+}
+
+.t{height: 20px;
+    width: 156px;
+  
+   top:600px;
+    left: 601px;
+    bottom: 28px;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    
+    
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+    
+    color: #2B73DE;
+  }
+  .bar{
+    position: absolute;
+    width:153px;
+height: 21.8px;
+top:200px;
+background: #E4EFFF;
+border-radius: 12px;
+    background: #2FED51;
+    border-radius: 12px 0px 0px 12px;
+    };
+  .button{
+    height:39px;
+    width: 153px;
+    left: 106px;
+    top:30px;
+    border-radius: 5px;
+    
+align-items: flex-end;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 2px solid #2F80ED
+
+   } 
